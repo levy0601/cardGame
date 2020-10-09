@@ -42,7 +42,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="414" height="59.666666666666664"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Player 1" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="11" translatesAutoresizingMaskIntoConstraints="NO" id="ZaB-rg-hKd">
-                                                        <rect key="frame" x="170.33333333333334" y="16.666666666666657" width="73.333333333333343" height="26.333333333333329"/>
+                                                        <rect key="frame" x="170.33333333333337" y="16.666666666666657" width="73.333333333333343" height="26.333333333333329"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
@@ -191,7 +191,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MJt-cs-45U">
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="92"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Winner  :  Undecided" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="Ccb-wI-iak">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="Ccb-wI-iak">
                                                 <rect key="frame" x="0.0" y="23" width="414" height="46"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                                 <nil key="textColor"/>
@@ -210,7 +210,7 @@
                                         <rect key="frame" x="0.0" y="92" width="414" height="92"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RwZ-z0-y66">
-                                                <rect key="frame" x="124.33333333333333" y="23" width="165.33333333333337" height="46"/>
+                                                <rect key="frame" x="124.33333333333331" y="23" width="165.33333333333337" height="46"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                                 <state key="normal" title="Play"/>
                                                 <connections>

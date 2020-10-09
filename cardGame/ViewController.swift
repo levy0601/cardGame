@@ -134,7 +134,7 @@ class ViewController: UIViewController {
     }
     
     func setDefaultWinnerLabel() {
-        lblWinner.text = "Winner : Undecided"
+        lblWinner.text = ""
     }
     
 
